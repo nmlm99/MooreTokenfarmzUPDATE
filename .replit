@@ -1,0 +1,7 @@
+language = "nodejs"
+run = "npm start"
+language - "solidity"
+
+const mySecret = process.env['.env']
+
+const mySecret = process.env['.env']

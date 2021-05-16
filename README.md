@@ -1,2 +1,0 @@
-# MooreTokenfarmzUPDATE
-fresh 
